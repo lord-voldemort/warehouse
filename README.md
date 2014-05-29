@@ -1,4 +1,4 @@
 warehouse
 =========
 
-Warehouse Example in Play for Java book
+A super duper simple play project!
